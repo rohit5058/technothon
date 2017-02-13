@@ -1,7 +1,7 @@
 
 Welcome to Git demo!
 
-change - 1
+cHANGE - 1 ???
 some code 
 
 change - 2 
